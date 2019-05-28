@@ -1,0 +1,138 @@
+	Neighborhood	Area	Population	Zip_codes
+0	2nd Street Disrict	 0.037 	 205	78701
+1	6th Street Disrict	 0.064 	 1302	78701,78702
+2	6th Street District	 0.057 	 1161	78701,78702
+3	Alamo Park	 0.003 	 12	78722
+4	Allandale	 2.002 	 9806	78731,78756
+5	Arts District	 0.051 	 210	78701
+6	Auditorium Shores	 0.039 	 234	78704
+7	Barrington Oaks	 1.241 	 7037	78759
+8	Barton Hills	 2.776 	 6753	78704,78746
+9	Barton Springs	 0.074 	 426	78704
+10	Battle Bend Springs	 1.856 	 6827	78745
+11	Blackland (Rogers-Washington-Holy Cross)	 0.193 	 1010	78722
+12	Bouldin Creek	 1.199 	 10293	78704
+13	Bratton	 0.011 	 27	78728
+14	Bratton Lane Business Park	 0.023 	 55	78728
+15	Brentwood	 1.590 	 11662	78756,78757
+16	Brush Park	 0.004 	 20	78701
+17	Bryker Woods	 0.599 	 3277	78703,78705
+18	Cat Mountain	 0.625 	 1544	78731
+19	Central East Austin	 0.968 	 4885	78702
+20	Cherry Creek	 1.674 	 8223	78748
+21	Cherrywood	 0.710 	 4217	78722
+22	Chestnut	 0.281 	 1714	78702
+23	Circle C Ranch	 7.244 	 24814	78739,78749
+24	Clarksville	 0.547 	 6452	78703
+25	Clarksville Park	 0.004 	 23	78703
+26	Comal Park	 0.003 	 9	78702
+27	Congress Ave District	 0.123 	 482	78701
+28	Convention Center District	 0.117 	 2020	78701,78702
+29	Copperfield	 1.013 	 3508	78753,78754
+31	Coronado Hills	 0.551 	 2417	78752
+32	Crestview	 1.024 	 5221	78757
+33	Dawson	 0.496 	 2582	78704
+34	Downtown	 1.653 	 26154	78701,78702
+35	Duncan Park	 0.018 	 26	78701,78703
+36	East Austin	 8.924 	 38380	78702,78721
+37	East Cesar Chavez	 0.680 	 2916	78702
+38	East Congress	 1.207 	 3705	78745
+39	East End	 0.101 	 407	78702
+40	Ed Bluestein	 0.670 	 1761	78721
+41	Fireside Loop	 0.054 	 231	78757
+42	Franklin Park	 2.203 	 15865	78744
+43	Galindo	 0.684 	 4541	78704
+44	Garrison Park	 1.964 	 7688	78745
+45	Gateway	 0.734 	 805	78759
+46	Georgian Acres	 1.050 	 9050	78753
+47	Govalle	 1.580 	 8326	78702
+48	Gracy Woods	 1.560 	 7680	78758
+49	Great Hills	 5.447 	 10664	78750,78759
+50	Hancock	 0.845 	 5537	78751,78705
+51	Harris Branch	 3.096 	 3577	78754,78653
+52	Heritage	 0.201 	 2504	78705
+53	Heritage Hills	 1.369 	 12060	78753
+54	Highland	 1.345 	 6586	78752
+55	Highland North	 0.101 	 813	78752
+56	Highland South	 0.150 	 559	78752
+57	Holly	 0.712 	 3093	78702
+58	Hutson-Tillotson University	 0.031 	 215	78702
+59	Hyde Park	 0.763 	 7181	78751
+60	Johnston Terrace	 0.967 	 1942	78721
+61	Kealing Park and Pool	 0.033 	 162	78702
+62	Lamplight Village	 2.000 	 8778	78727,78753
+63	Limestone Ridgeapts	 0.039 	 69	78728
+64	Market District	 0.163 	 235	78701,78703
+65	Mckinney	 2.664 	 14125	78744
+67	Milwood	 1.577 	 6446	78727,78759
+68	Mlk	 1.543 	 4212	78721,78723
+69	Mlk-183	 3.327 	 12794	78721,78724
+70	Montopolis	 2.217 	 9869	78741
+71	Mt Calvary Cemetery	 0.016 	 91	78722
+72	North Austin	 3.072 	 28260	78758
+73	North Burnet	 3.241 	 3979	78758,78759
+74	North Lamar	 0.983 	 4926	78753
+75	North Loop	 0.957 	 2661	78751
+76	North Shoal Creek	 1.022 	 6300	78757,78759
+77	North University	 0.369 	 4176	78705
+78	Northridge Acres	 0.214 	 341	78728
+79	Northwest Austin (NW Austin)	 35.673 	 77796	78726,78731
+80	Northwest Hills (NW Hills)	 2.286 	 10775	78731
+83	Oak Springs	 0.304 	 1285	78721
+84	Oakwood Cemetery	 0.099 	 211	78702
+85	Old Enfield	 0.340 	 1384	78703,78705
+86	Old West Austin	 0.936 	 6627	78703
+87	Oltorf-East Riverside (East Riverside-Oltorf)	 7.717 	 31954	78741
+88	Oriens Park	 0.676 	 1905	78723
+89	Palm Park	 0.009 	 155	78701
+90	Pan Am Park	 0.007 	 44	78702
+91	Parker Lane	 1.771 	 6489	78741
+92	Pecan Springs-springdale	 1.532 	 5817	78723
+93	Pleasant Valley	 2.285 	 1745	78741
+94	Prologis	 0.032 	 45	78728
+95	Red River District	 0.086 	 2654	78701,78702
+96	Republic Square Park	 0.004 	 24	78701
+97	Riverside	 1.142 	 8824	78741
+98	Rmma	 1.259 	 7538	78723
+99	Rollingwood	 1.256 	 957	78746
+100	Rosedale	 1.362 	 5920	78731,78756
+101	Rosewood	 0.896 	 5576	78702,78722
+103	Shady Hollow	 1.334 	 2515	78739,78748
+104	Shoal Crest	 0.075 	 894	78705
+105	South Austin (Austin del Sur)	 40.812 	 165200	78704,78739
+106	South Congress	 0.026 	 142	78701
+107	South Lamar	 1.224 	 10170	78704
+108	South Manchaca	 1.391 	 9030	78745
+109	South River City	 1.135 	 6826	78704
+110	Southeast	 2.818 	 9528	78744
+111	Southeast Austin (SE Austin)	 46.140 	 285036	78744,78747
+112	Spyglass-Bartons Bluff (Bartons Bluff-Spyglass)	 0.789 	 1815	78704,78746
+113	St. Edwards	 1.132 	 5449	78704
+114	St. Johns	 1.195 	 11943	78752
+115	Sweetbriar	 0.941 	 5577	78745
+116	Tarrytown (Tarrytown-Exposition Boulevard)	 2.492 	 9275	78703
+117	Texas State Cemetery	 0.028 	 196	78702
+118	The Drag	 0.109 	 2798	78705
+119	Town Lake	 3.537 	 12599	78704,78741
+120	Town Lake Park (Town Lake)	 0.046 	 225	78704
+121	Triangle State	 0.453 	 4132	78751
+122	UT	 0.763 	 23161	78701,78705
+123	University Hills	 1.135 	 4221	78723
+124	University of Texas (UT)	 0.565 	 8691	78701,78705
+125	University of Texas at Austin	 0.035 	 199	78703
+126	Upper Boggy Creek	 1.119 	 6422	78722,78723
+128	Warehouse District	 0.068 	 328	78701
+129	Waterloo Park	 0.019 	 34	78701
+130	Wells Branch	 2.788 	 9671	78728
+131	West Austin Park	 0.006 	 174	78703
+132	West Congress	 0.586 	 2883	78745
+133	West End	 0.110 	 761	78701,78703
+134	West University	 0.739 	 13956	78705
+135	Westgate	 1.274 	 5798	78745,78735
+136	William Carl Young	 0.003 	 8	78728
+138	Windsor Hills	 1.233 	 5374	78753
+139	Windsor Park	 2.300 	 14928	78723
+140	Windsor Road	 1.183 	 5896	78703,78705
+141	Wooten	 0.958 	 5518	78757
+142	Zilker	 1.132 	 7390	78704
+143	Zilker Metropolitan Park	 0.428 	 961	78704,78746
